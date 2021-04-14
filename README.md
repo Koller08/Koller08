@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Koller08
-- 👀 I’m interested in data, facts, and the stories found and shared from them.  
+- 👀 I’m interested in data, facts, and the stories found and shared revolving around them.  
 - 🌱 I’m currently getting a Masters in Business Analytics from the Carlson School of Management.
 - 💞️ I’m looking to collaborate on projects that solve everyday problems for businesses like resource allocation, quantifying quality metrics, time series forecasting, and much more!  
 - 📫 How to reach me: kadzick@gmail.com
